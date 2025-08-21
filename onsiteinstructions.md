@@ -29,7 +29,6 @@ Use anyconnect o connect to the setup (use your credentials):
   5- You can now view your Streamlit app in your browser.
  
   Local URL: http://localhost:8501
-  Network URL: http://<your_IP_address>:8501
 
   6- In the Agent Settings to the left-hand side, select the LLM provider. Then enter the LLM you will use (gpt-4.1) and press Enter. Keep all other settings at their default values and select 
 Click to Activate and verify AI agent readiness. You should see three validations in green color, meaning that your AI agent is ready to be used. See picture below for reference:  
@@ -58,7 +57,6 @@ Click to Activate and verify AI agent readiness. You should see three validation
   5- You can now view your Streamlit app in your browser.
  
   Local URL: http://localhost:8501
-  Network URL: http://<your_IP_address>:8501
 
   6- In the Agent Settings to the left-hand side, select the LLM provider. Then enter the LLM you will use (gpt-4.1) and press Enter. Keep all other settings at their default values and select 
 Click to Activate and verify AI agent readiness. You should see three validations in green color, meaning that your AI agent is ready to be used. See picture below for reference:  
