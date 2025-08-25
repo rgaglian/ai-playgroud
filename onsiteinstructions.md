@@ -5,7 +5,7 @@ Please complete as you seat in your seats
 Note: Pre-requirement: All the pre-requirement work is listed here (VPN required): https://wwwin-github.cisco.com/jantich/ai-agent-playground/blob/master/docs/QUICKSTART.md
 
 ## Task 1: Update your code (we found some problems...):
-### Note: If you used the ZIP instructions for creating your lab, you would need to download the new zip file and re-start the setup.
+### Note: If you used the ZIP instructions for creating your lab, please check alternative instructions at the end of the document.
   1- Connect to Cisco Corportate VPN
   
   2- Open a new Terminal or Power Shell
@@ -92,3 +92,24 @@ Click to Activate and verify AI agent readiness. You should see three validation
 Click to Activate and verify AI agent readiness. You should see three validations in green color, meaning that your AI agent is ready to be used. See picture below for reference:  
 
 <img width="3832" height="2098" alt="Screenshot 2025-08-19 at 19 02 35" src="https://github.com/user-attachments/assets/68720d49-eb87-4cc0-bd5e-8265215410fe" />
+
+### Instructions for people using ZIP file to download environment:
+In an initial version fo the instructions, we included the option to download ZIP files and locally run the environment. This is a challenge to perform some updates.
+
+Here are the options:
+
+1- Redo: Re-start the setup using the "git clone" option or downloading a new ZIP with the current version of the environment.
+  You can use a new folder to host the new environment or delete the old folder.
+
+2- Update space:
+
+  a- Download the new ZIP file from the Corporate git: https://wwwin-github.cisco.com/jantich/ai-agent-playground.git
+
+  b- Unzip the new file in a different folder
+
+  c- Overwrite all the files from the new folder into the old folder. 
+  
+  d- Just check that your .env file is still valid.
+  
+When done, you can continue to connect to the dcloud environment.
+
