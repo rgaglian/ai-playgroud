@@ -2,7 +2,34 @@ Workshop: AI Agents for Network Automation
 
 # Please complete as you seat in your seats:
 
-## Task 1: Connect to dcloud.
+## Task 1: Update your code (we found some problems...):
+  1- Connect to Cisco Corportate VPN
+  
+  2- Open a new Terminal or Power Shell
+
+  3- Go to your ai-agent-playground folder:
+  ```bash
+   cd ai-agent-playground
+  ```
+  4- Perform the GIT Pull from the repository
+  ```bash
+    % git pull
+  ```
+  You should have the following output or similar (depending of when you did your pre-work):
+  ```
+ ai-agent-playground % git pull
+Enter passphrase for key '/Users/rogaglia/.ssh/id_rsa':
+Updating 6a44ce6..e81aa21
+Fast-forward
+ agent/agent_core.py | 31 +++++++++++++++++++++++++++++--
+ llm/llm_utils.py    | 23 +++++++++++++++++------
+ 2 files changed, 46 insertions(+), 8 deletions(-)
+ ai-agent-playground %
+  ```
+
+### Note: If you used the ZIP instructions for creating your lab, you would need to download the new zip file and re-start the setup.
+
+## Task 2: Connect to dcloud.
 Take a piece of paper from your table with your dcloud credentials. It will include: URL, username and password.
 Use anyconnect o connect to the setup (use your credentials):
 
@@ -10,9 +37,9 @@ Use anyconnect o connect to the setup (use your credentials):
 
 <img width="300" height="200" alt="Screenshot 2025-08-20 at 19 19 28" src="https://github.com/user-attachments/assets/cbe178a4-4da4-40ea-9bd6-b5a6fd16c9f9" />
 
-
-## Task 2: Linux/MAC users  (Windows see below)::
-  1- Open Terminal
+## Task 3: Activate your virtual environment and run playground
+### Instructions Linux/MAC users  (Windows see below)::
+  1- Open a new Terminal
 
   2- Go to your ai-agent-playground folder:
   ```bash
@@ -24,7 +51,7 @@ Use anyconnect o connect to the setup (use your credentials):
   ```
   4- Run the application and connect to port 8501:
   ```bash
-  python3 -m streamlit run agent_main.p
+  python3 -m streamlit run agent_main.py
   ```
   5- You can now view your Streamlit app in your browser.
  
@@ -36,10 +63,10 @@ Click to Activate and verify AI agent readiness. You should see three validation
 <img width="3832" height="2098" alt="Screenshot 2025-08-19 at 19 02 35" src="https://github.com/user-attachments/assets/68720d49-eb87-4cc0-bd5e-8265215410fe" />
 
 
-## Windows users:
+### Instructions Windows users:
   1- Open Power Shell as an Adminstrator
 
-  2- Go to your ai-agent-playground folder:
+  2- Go to your ai-agent-playground folder if you are not already there:
   ```bash
    cd ai-agent-playground
   ```
