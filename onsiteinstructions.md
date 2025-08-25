@@ -16,7 +16,7 @@ Note: Pre-requirement: All the pre-requirement work is listed here (VPN required
   ```
   4- Perform the GIT Pull from the repository
   ```bash
-    % git pull
+    git pull
   ```
   You should have the following output or similar (depending of when you did your pre-work):
   ```
@@ -98,8 +98,13 @@ In an initial version fo the instructions, we included the option to download ZI
 
 Here are the options:
 
-1- Redo: Re-start the setup using the "git clone" option or downloading a new ZIP with the current version of the environment.
+1- Redo: 
+  Copy your .env file somewhere you can re-use it later.
+  
+  Re-start the setup using the "git clone" option or downloading a new ZIP with the current version of the environment.
   You can use a new folder to host the new environment or delete the old folder.
+
+  Re-use your .env file in the new folder, just to be sure you have the right encoding.
 
 2- Update space:
 
