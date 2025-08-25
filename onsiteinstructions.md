@@ -1,9 +1,11 @@
-#Workshop: AI Agents for Network Automation
+# Workshop: AI Agents for Network Automation
 
-# Please complete as you seat in your seats:
+Please complete as you seat in your seats
+
 Note: Pre-requirement: All the pre-requirement work is listed here (VPN required): https://wwwin-github.cisco.com/jantich/ai-agent-playground/blob/master/docs/QUICKSTART.md
 
 ## Task 1: Update your code (we found some problems...):
+### Note: If you used the ZIP instructions for creating your lab, you would need to download the new zip file and re-start the setup.
   1- Connect to Cisco Corportate VPN
   
   2- Open a new Terminal or Power Shell
@@ -28,7 +30,7 @@ Fast-forward
  ai-agent-playground %
   ```
 
-### Note: If you used the ZIP instructions for creating your lab, you would need to download the new zip file and re-start the setup.
+  5- Disconnect from Cisco Corporate VPN
 
 ## Task 2: Connect to dcloud.
 Take a piece of paper from your table with your dcloud credentials. It will include: URL, username and password.
