@@ -116,5 +116,5 @@ Here are the options:
   
   d- Just check that your .env file is still valid.
   
-When done, you can continue to connect to the dcloud environment.
+When done, you can continue to connect to the dcloud environment on Task 2.
 
