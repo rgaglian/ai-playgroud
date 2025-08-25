@@ -1,8 +1,7 @@
-Workshop: AI Agents for Network Automation
-
-Pre-requirement: All the pre-requirement work is listed here (VPN required): https://wwwin-github.cisco.com/jantich/ai-agent-playground/blob/master/docs/QUICKSTART.md
+#Workshop: AI Agents for Network Automation
 
 # Please complete as you seat in your seats:
+Note: Pre-requirement: All the pre-requirement work is listed here (VPN required): https://wwwin-github.cisco.com/jantich/ai-agent-playground/blob/master/docs/QUICKSTART.md
 
 ## Task 1: Update your code (we found some problems...):
   1- Connect to Cisco Corportate VPN
