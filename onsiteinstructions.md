@@ -1,6 +1,6 @@
 # Workshop: AI Agents for Network Automation
 
-Please complete as you seat in your seats
+Please complete as you seat in your seats. There are Three tasks in this instructions.
 
 Note: Pre-requirement: All the pre-requirement work is listed here (VPN required): https://wwwin-github.cisco.com/jantich/ai-agent-playground/blob/master/docs/QUICKSTART.md
 
@@ -93,7 +93,7 @@ Click to Activate and verify AI agent readiness. You should see three validation
 
 <img width="3832" height="2098" alt="Screenshot 2025-08-19 at 19 02 35" src="https://github.com/user-attachments/assets/68720d49-eb87-4cc0-bd5e-8265215410fe" />
 
-### Instructions for people using ZIP file to download environment:
+### Task 1:Instructions for people using ZIP file to download environment:
 In an initial version fo the instructions, we included the option to download ZIP files and locally run the environment. This is a challenge to perform some updates.
 
 Here are the options:
