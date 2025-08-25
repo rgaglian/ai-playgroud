@@ -1,5 +1,7 @@
 Workshop: AI Agents for Network Automation
 
+Pre-requirement: All the pre-requirement work is listed here (VPN required): https://wwwin-github.cisco.com/jantich/ai-agent-playground/blob/master/docs/QUICKSTART.md
+
 # Please complete as you seat in your seats:
 
 ## Task 1: Update your code (we found some problems...):
